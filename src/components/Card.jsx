@@ -1,8 +1,4 @@
-import React from 'react'
-import web from "../images/card.jpg"
-
-
-
+import React from 'react';
 
 function Card(props) {
     return (
