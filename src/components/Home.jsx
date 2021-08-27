@@ -26,7 +26,9 @@ const Home = () =>{
                     </div>
                     </div>
                 </div>
-                <Footer/>
+                <div className="mt-5">
+                    <Footer/>
+                </div>
             </section>
         </>
     );

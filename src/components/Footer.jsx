@@ -20,7 +20,7 @@ const Footer = () => {
 				<i className="icons fas fa-phone-square-alt fa-2x"></i>
 			</a>
             <hr/>
-            <p className="text-center">Made with ❤️ By Ozair.</p>
+            <p className="text-center pb-3">Made with ❤️ By Me.</p>
 		</footer>
 	);
 };

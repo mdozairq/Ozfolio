@@ -15,14 +15,14 @@
 .navbar-brand {
   font-weight: bolder;
   font-size: 1.9rem !important;
-  color: #368B85 !important;
+  color: #1a4d4a !important;
 }
 
 .navbar a{
   font-size: 1.3rem;
   text-transform: capitalize;
   text-decoration: none;
-  color: #368B85;
+  color: #1a4d4a;
 }
 
 .menu_active {
@@ -52,7 +52,7 @@
 
 
 #headers .brand-name{
-  color:  #7FC8A9;
+  color:  #5cce9e;
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 700;
@@ -71,7 +71,7 @@
 }
 
 #header .brand-name{
-  color:  #7FC8A9;
+  color:  #5cce9e;
 }
 
 
@@ -111,8 +111,13 @@ footer {
 
 .icons {
 	padding-left: 20px;
-	color: #7FC8A9;
+	color: #1a4d4a;
 }
+
+.icons:hover{
+  color: #7FC8A9;
+}
+
 
 @-webkit-keyframes up-down{
   0%{
@@ -148,4 +153,9 @@ footer {
   100%{
     transform: translateY(-10px);
   }
+}
+
+.dark-mode{
+  background-color: #000;
+  color: #fff;
 }
