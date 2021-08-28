@@ -1,5 +1,4 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
 import webx from "../images/profile.png";
 import Footer from "./Footer";
 
