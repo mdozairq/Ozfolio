@@ -10,8 +10,8 @@ const cardContainer = {
     justifyContent : "space-evenly",
     alignItems : "space-evenly",
     height : "auto",
-
 }
+
 const Project = () =>{
     return(
         <>

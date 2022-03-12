@@ -26,7 +26,7 @@ const About = () => {
                                         <li><em>3★ Competitive Programmer at CodeChef : </em> <a href="https://www.codechef.com/users/mdozairq">Max rated : 1617 </a></li>
                                         <li><em>First Prize winner of the Hackathon on AI and ML Training program
                                                 organized by Edge FX Technologies Private Limited.</em></li>
-                                        <li><em>Hacker rank 5★ in C++ and 3★ in Problem Sloving
+                                        <li><em>Hacker rank 5★ in C++ and 4★ in Problem Sloving
                                             certified:</em> 
                                             <a href="https://www.hackerrank.com/mdozairq" target="_blank" rel="noreferrer" >Achivements</a></li>
                                     </ul>

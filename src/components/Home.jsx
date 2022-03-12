@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import web from "../images/h-logo.jpg";
 import Footer from "./Footer";
 
@@ -16,7 +16,7 @@ const Home = () =>{
                                 <h2 className="my-3">A Passionate WebDeveloper | Programmer | Blogger | Artist</h2>
                             
                             <div className="mt-3">
-                                <NavLink className="btn-get-started" to="/about">get Started</NavLink>
+                                <a className="btn-get-started" href={"https://drive.google.com/file/u/2/d/1oq1_JeTPSM8G_-x7bA-N8B_vDLogHg-i/view?usp=sharing"}>Resume</a>
                             </div>
                             </div>
                         <div className="col-lg-6 order-1 order-lg-2 header-img">

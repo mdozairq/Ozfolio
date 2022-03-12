@@ -2,9 +2,17 @@ import getJoke from "../images/1.png";
 import todoList from "../images/2.png";
 import blogSite from "../images/3.png";
 import drumGame from "../images/4.png";
+import ePizzaStore from "../images/epizzastore.png"
 import BulletAccessories from "../images/5.png";
 
 const projectData = [
+    {
+        imgsrc: ePizzaStore,
+        title: "E-Pizza Store",
+        description:"A E-Commerce Cart webapp listing Pizzas by calling external API where users could order their preferred pizza.",
+        repolink:"https://github.com/mdozairq/E-Pizza-Store",
+        livelink:"https://epizzastore.netlify.app/"
+    },
     {
         imgsrc: getJoke,
         title: "getJoke",
