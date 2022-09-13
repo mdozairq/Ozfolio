@@ -11,7 +11,7 @@ const Education = () => {
 			<div className="container">
 				<div className="my-5">
 					<h1>Undergraduate | 2019-present </h1>
-					<h3>Gaya College of Engineering, Gaya | 8.0 CGPA</h3>
+					<h3>Gaya College of Engineering, Gaya | 8.2 CGPA</h3>
 					<h5>B.Tech | Computer Science Engineering</h5>
 					<ul>
 						<li>

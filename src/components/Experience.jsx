@@ -7,13 +7,47 @@ const Experience = () => {
 			<div id="header" className="container">
 				<h1 className="text-center brand-name">My Experiences</h1>
 				<div className="my-5">
+					<h2>Treflo, (Ardour Labs Private Limited),| Apr '22 – Sept '22 (Bengaluru, IN)</h2>
+					<h3>Junior Software Developer - Internship</h3>
+					<ul>
+						<li>
+							<em>Worked on Microservices architecture.</em>
+						</li>
+						<li>
+							<em>Developed RESTful APIs in ExpressJS along with NodeJS Framework in back-end development using TypeScript.</em>
+						</li>
+						<li>
+							<em>Written Migration in mongoDB using migrate-mongo library.</em>
+						</li>
+						<li>
+							<em>hands-on experience in devops, created kubernetes cluster and deployed the services.</em>
+						</li>
+					</ul>
+				</div>
+				<div className="my-5">
+					<h2>NamaSYS, (Nemesis Consultants LLP) | Oct '21 to Jan '22</h2>
+					<h3>ReactJS Developer Intern</h3>
+					<ul>
+						<li>
+							<em>Developed different components of the main website using React from scratch</em>
+						</li>
+						<li>
+							<em>Implemented the logic for the interaction between the components and their respective state management with
+								Redux and useContext hooks</em>
+						</li>
+						<li>
+							<em>Developed the logic to fetch REST APIs and implement them in the code in an efficient manner</em>
+						</li>
+					</ul>
+				</div>
+				<div className="my-5">
 					<h2>Internity Foundation | 5th Jun to 21st July '21</h2>
 					<h3>Data Structures and Algorithms Intern</h3>
 					<ul>
 						<li>
 							<em>As part
-							of the internship,successfully Done training and solved 100+ DSA
-							problems and has been verified ongoing at various stages of development.</em>
+								of the internship,successfully Done training and solved 100+ DSA
+								problems and has been verified ongoing at various stages of development.</em>
 						</li>
 						<li>
 							<a
@@ -26,25 +60,7 @@ const Experience = () => {
 						</li>
 					</ul>
 				</div>
-				<div className="my-5">
-					<h2>CodeChef College Chapter Lead,| '19 to present</h2>
-					<h3>Executive chef at GCE,Gaya Chapter</h3>
-					<ul>
-						<li>
-							<em>I Organised the Coding Event and Sessions of Codechef in the Campus.</em>
-						</li>
-						</ul>
-				</div>
-				<div className="my-5">
-					<h2>Google Developer Student Club | July '21 to present</h2>
-					<h3>Flutter Lead at GDSC, Gaya</h3>
-					<ul>
-						<li>
-							<em>Having Experience in conducting online Sessions and Promoting the new Technologies.</em>
-						</li>
-					</ul>
-				</div>
-				<Footer/>
+				<Footer />
 			</div>
 		</>
 	);
